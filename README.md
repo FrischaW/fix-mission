@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://frischaw.github.io/fix-mission/" target="_blank">
+  <a href="https://github.com/FrischaW/fix-mission.git" target="_blank">
     🌐 Live Demo
   </a>
 </p>
