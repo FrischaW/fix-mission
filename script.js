@@ -1,9 +1,20 @@
 // Pesan yang akan ditampilkan
 const MESSAGE_TEXT = [
   "Selamat ulang tahun, Mei🎂",
-  "Semoga Panjang Umur dan Sehat Selalu"
-  "Semoga segala doa yang disemogakan segera tersemogakan yak"
-  "Oh ya, semoga semua sedih yang sempet dirasain belakangan ini diganti sama kebahagiaan yang lebih banyak lagi"
+  "Tau ini telat banget yaa… maafkeun😅. Semoga kamu selalu bahagia terus yaa Mei.",
+  "Makasih mei udah jadi temen yang baik (meskipun kadang ngeselin wkwk)",
+  "tapi serius, dirimu tuh selalu bikin ketawa dan tiap ketemu tuh kek auto full battery lagi anjay wkwkw.", 
+  "Kalo kata Fahrun tuh, kalo lgi sedih harus ingat kalo selalu ada badut Meifha yang selalu menghibur🤭",
+  "thanks ya mei udh mau jadi badutku wkwkw.",
+  "ini aku ngetik sedikit malu dan merasa sedikit alay se",
+  "tapi jujur semenjak kita temenan aku berasa jadi makin berwarna.....",
+  "gimana yak, kyk ngerasa Frischa yang dulu tuh balik lagi",
+  "(aku tau dirimu pasti ketawa sambil senyum2 baca iki hehe, tapi gapapa lah yaa sekali2...)",
+  "dan jujur aku kangen sekelas pliss😢",
+  "dan ga boong kadang aku kesel dirimu slowrep:(",
+  "tapi aku ngerti kok, emang cuma kesel ae tapi ga yang kesel bgt paham ga sihh",
+  "Apalagi ya? Hmm...",
+  "Semoga segala doa yang disemogakan segera tersemogakan yak. Oh ya, semoga semua sedih yang sempet dirasain belakangan ini diganti sama kebahagiaan yang lebih banyak lagi. Semoga ke depannya kita nggak pernah jadi asing ya Mei… awas aja lek asing!!!",
   "Semangat semester 5 nya",
   "- Chaca"
 ].join("\n\n");
@@ -118,5 +129,6 @@ giftImage?.addEventListener("click", () => {
 
 // ===== Awal: tampilkan start screen =====
 show("start");
+
 
 
