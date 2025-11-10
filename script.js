@@ -1,7 +1,7 @@
 // Pesan yang akan ditampilkan
 const MESSAGE_TEXT = [
   "Selamat ulang tahun, Mei🎂",
-  "Semoga Panjang Umur dan Sehat Selalu
+  "Semoga Panjang Umur dan Sehat Selalu"
   "Semoga segala doa yang disemogakan segera tersemogakan yak"
   "Oh ya, semoga semua sedih yang sempet dirasain belakangan ini diganti sama kebahagiaan yang lebih banyak lagi"
   "Semangat semester 5 nya",
@@ -118,4 +118,5 @@ giftImage?.addEventListener("click", () => {
 
 // ===== Awal: tampilkan start screen =====
 show("start");
+
 
